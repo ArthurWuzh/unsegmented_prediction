@@ -1,0 +1,230 @@
+[23:22:01.084] Namespace(base_lr=0.01, batch_size=8, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[23:24:13.485] Namespace(base_lr=0.01, batch_size=8, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[23:25:15.706] Namespace(base_lr=0.01, batch_size=8, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[23:27:14.274] Namespace(base_lr=0.01, batch_size=8, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[23:28:43.003] Namespace(base_lr=0.01, batch_size=8, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[23:30:00.204] Namespace(base_lr=0.01, batch_size=8, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[23:30:00.433] 11 itertations per epoch
+[11:25:41.342] Namespace(base_lr=0.01, batch_size=8, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[11:25:41.576] 11 itertations per epoch
+[11:27:15.153] Namespace(base_lr=0.01, batch_size=8, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[11:27:18.114] 11 itertations per epoch
+[11:35:07.566] Namespace(base_lr=0.01, batch_size=8, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[11:35:07.801] 11 itertations per epoch
+[11:37:02.793] Namespace(base_lr=0.01, batch_size=2, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[11:37:03.023] 11 itertations per epoch
+[11:39:22.866] Namespace(base_lr=0.01, batch_size=1, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=4, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[11:40:40.296] Namespace(base_lr=0.01, batch_size=2, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=1, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[11:42:05.253] Namespace(base_lr=0.01, batch_size=2, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=1, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[11:42:05.479] 42 itertations per epoch
+[11:42:10.820] iteration 1 : loss : 2.149198, loss_seg : 1.285228, loss_seg_dice : 3.012864, consistency_loss : 0.000152, cons_dist: 0.225834, loss_weight: 0.000674
+[11:42:13.449] iteration 2 : loss : 2.130989, loss_seg : 1.351009, loss_seg_dice : 2.910830, consistency_loss : 0.000070, cons_dist: 0.103185, loss_weight: 0.000674
+[11:42:16.068] iteration 3 : loss : 2.117908, loss_seg : 1.320872, loss_seg_dice : 2.914796, consistency_loss : 0.000074, cons_dist: 0.109129, loss_weight: 0.000674
+[11:42:18.690] iteration 4 : loss : 2.004434, loss_seg : 1.261522, loss_seg_dice : 2.747254, consistency_loss : 0.000046, cons_dist: 0.068754, loss_weight: 0.000674
+[11:42:21.312] iteration 5 : loss : 2.257852, loss_seg : 1.234172, loss_seg_dice : 3.281485, consistency_loss : 0.000024, cons_dist: 0.035157, loss_weight: 0.000674
+[11:42:23.932] iteration 6 : loss : 2.071412, loss_seg : 1.301448, loss_seg_dice : 2.841308, consistency_loss : 0.000033, cons_dist: 0.049377, loss_weight: 0.000674
+[11:42:26.555] iteration 7 : loss : 2.029487, loss_seg : 1.299558, loss_seg_dice : 2.759388, consistency_loss : 0.000014, cons_dist: 0.020899, loss_weight: 0.000674
+[11:42:29.179] iteration 8 : loss : 2.012441, loss_seg : 1.225461, loss_seg_dice : 2.799352, consistency_loss : 0.000035, cons_dist: 0.052528, loss_weight: 0.000674
+[11:42:31.799] iteration 9 : loss : 2.098822, loss_seg : 1.329638, loss_seg_dice : 2.867954, consistency_loss : 0.000026, cons_dist: 0.038317, loss_weight: 0.000674
+[11:42:34.419] iteration 10 : loss : 1.854890, loss_seg : 1.077926, loss_seg_dice : 2.631836, consistency_loss : 0.000009, cons_dist: 0.013613, loss_weight: 0.000674
+[11:42:37.038] iteration 11 : loss : 2.080090, loss_seg : 1.117438, loss_seg_dice : 3.042708, consistency_loss : 0.000017, cons_dist: 0.025195, loss_weight: 0.000674
+[11:42:39.658] iteration 12 : loss : 1.825332, loss_seg : 1.160792, loss_seg_dice : 2.489765, consistency_loss : 0.000053, cons_dist: 0.078997, loss_weight: 0.000674
+[11:42:42.280] iteration 13 : loss : 2.045465, loss_seg : 1.253657, loss_seg_dice : 2.837245, consistency_loss : 0.000014, cons_dist: 0.020616, loss_weight: 0.000674
+[11:42:44.902] iteration 14 : loss : 1.788154, loss_seg : 0.873549, loss_seg_dice : 2.702747, consistency_loss : 0.000006, cons_dist: 0.008754, loss_weight: 0.000674
+[11:42:47.521] iteration 15 : loss : 1.651936, loss_seg : 0.936148, loss_seg_dice : 2.367648, consistency_loss : 0.000039, cons_dist: 0.057554, loss_weight: 0.000674
+[11:42:50.144] iteration 16 : loss : 1.662657, loss_seg : 0.948630, loss_seg_dice : 2.376657, consistency_loss : 0.000013, cons_dist: 0.019753, loss_weight: 0.000674
+[11:42:52.771] iteration 17 : loss : 1.665120, loss_seg : 0.771849, loss_seg_dice : 2.558363, consistency_loss : 0.000014, cons_dist: 0.020298, loss_weight: 0.000674
+[11:42:55.390] iteration 18 : loss : 2.148794, loss_seg : 1.376502, loss_seg_dice : 2.921049, consistency_loss : 0.000019, cons_dist: 0.027635, loss_weight: 0.000674
+[11:42:58.009] iteration 19 : loss : 1.718089, loss_seg : 0.831473, loss_seg_dice : 2.604683, consistency_loss : 0.000011, cons_dist: 0.016292, loss_weight: 0.000674
+[11:43:00.629] iteration 20 : loss : 1.529885, loss_seg : 0.634124, loss_seg_dice : 2.425579, consistency_loss : 0.000034, cons_dist: 0.050298, loss_weight: 0.000674
+[11:43:03.248] iteration 21 : loss : 1.618167, loss_seg : 0.658290, loss_seg_dice : 2.577943, consistency_loss : 0.000051, cons_dist: 0.075452, loss_weight: 0.000674
+[11:43:05.867] iteration 22 : loss : 1.626548, loss_seg : 0.556297, loss_seg_dice : 2.696740, consistency_loss : 0.000030, cons_dist: 0.044475, loss_weight: 0.000674
+[11:43:08.483] iteration 23 : loss : 1.460710, loss_seg : 0.770102, loss_seg_dice : 2.151229, consistency_loss : 0.000044, cons_dist: 0.065785, loss_weight: 0.000674
+[11:43:11.101] iteration 24 : loss : 1.471859, loss_seg : 0.675709, loss_seg_dice : 2.267921, consistency_loss : 0.000044, cons_dist: 0.064887, loss_weight: 0.000674
+[11:43:13.719] iteration 25 : loss : 1.581336, loss_seg : 0.866614, loss_seg_dice : 2.295932, consistency_loss : 0.000063, cons_dist: 0.094160, loss_weight: 0.000674
+[11:43:16.341] iteration 26 : loss : 1.728736, loss_seg : 0.987090, loss_seg_dice : 2.470320, consistency_loss : 0.000031, cons_dist: 0.045589, loss_weight: 0.000674
+[11:43:18.958] iteration 27 : loss : 1.628211, loss_seg : 0.979018, loss_seg_dice : 2.277335, consistency_loss : 0.000035, cons_dist: 0.051543, loss_weight: 0.000674
+[11:43:21.577] iteration 28 : loss : 1.371413, loss_seg : 0.599145, loss_seg_dice : 2.143573, consistency_loss : 0.000054, cons_dist: 0.079638, loss_weight: 0.000674
+[11:43:24.197] iteration 29 : loss : 1.562280, loss_seg : 1.041896, loss_seg_dice : 2.082629, consistency_loss : 0.000017, cons_dist: 0.025872, loss_weight: 0.000674
+[11:43:26.817] iteration 30 : loss : 1.488269, loss_seg : 0.728708, loss_seg_dice : 2.247794, consistency_loss : 0.000018, cons_dist: 0.027004, loss_weight: 0.000674
+[11:43:29.434] iteration 31 : loss : 1.627235, loss_seg : 1.002613, loss_seg_dice : 2.251800, consistency_loss : 0.000028, cons_dist: 0.041603, loss_weight: 0.000674
+[11:43:32.053] iteration 32 : loss : 1.312633, loss_seg : 0.552505, loss_seg_dice : 2.072626, consistency_loss : 0.000067, cons_dist: 0.100097, loss_weight: 0.000674
+[11:43:38.275] iteration 33 : loss : 1.473299, loss_seg : 0.904169, loss_seg_dice : 2.042348, consistency_loss : 0.000041, cons_dist: 0.060231, loss_weight: 0.000674
+[11:43:40.896] iteration 34 : loss : 1.519380, loss_seg : 0.942316, loss_seg_dice : 2.096407, consistency_loss : 0.000019, cons_dist: 0.028188, loss_weight: 0.000674
+[11:43:43.514] iteration 35 : loss : 1.518429, loss_seg : 0.880704, loss_seg_dice : 2.156071, consistency_loss : 0.000041, cons_dist: 0.060643, loss_weight: 0.000674
+[11:43:46.133] iteration 36 : loss : 1.319267, loss_seg : 0.406896, loss_seg_dice : 2.231556, consistency_loss : 0.000041, cons_dist: 0.060281, loss_weight: 0.000674
+[11:43:50.445] iteration 37 : loss : 1.417311, loss_seg : 0.796307, loss_seg_dice : 2.038255, consistency_loss : 0.000030, cons_dist: 0.043985, loss_weight: 0.000674
+[11:43:53.067] iteration 38 : loss : 1.440857, loss_seg : 0.770605, loss_seg_dice : 2.111031, consistency_loss : 0.000039, cons_dist: 0.057581, loss_weight: 0.000674
+[11:43:55.689] iteration 39 : loss : 1.231575, loss_seg : 0.248058, loss_seg_dice : 2.215034, consistency_loss : 0.000030, cons_dist: 0.044090, loss_weight: 0.000674
+[11:43:58.310] iteration 40 : loss : 1.281705, loss_seg : 0.589842, loss_seg_dice : 1.973521, consistency_loss : 0.000023, cons_dist: 0.034803, loss_weight: 0.000674
+[11:44:00.931] iteration 41 : loss : 1.242092, loss_seg : 0.415123, loss_seg_dice : 2.069001, consistency_loss : 0.000030, cons_dist: 0.044553, loss_weight: 0.000674
+[11:44:03.551] iteration 42 : loss : 1.318651, loss_seg : 0.466045, loss_seg_dice : 2.171220, consistency_loss : 0.000019, cons_dist: 0.027808, loss_weight: 0.000674
+[11:44:06.177] iteration 43 : loss : 1.279810, loss_seg : 0.626660, loss_seg_dice : 1.932934, consistency_loss : 0.000013, cons_dist: 0.019108, loss_weight: 0.000674
+[11:44:08.795] iteration 44 : loss : 1.380209, loss_seg : 0.708528, loss_seg_dice : 2.051851, consistency_loss : 0.000019, cons_dist: 0.028444, loss_weight: 0.000674
+[11:44:11.410] iteration 45 : loss : 1.491597, loss_seg : 0.546678, loss_seg_dice : 2.436377, consistency_loss : 0.000070, cons_dist: 0.103640, loss_weight: 0.000674
+[11:44:14.031] iteration 46 : loss : 1.462185, loss_seg : 0.606459, loss_seg_dice : 2.317813, consistency_loss : 0.000049, cons_dist: 0.072503, loss_weight: 0.000674
+[11:44:16.650] iteration 47 : loss : 1.339913, loss_seg : 0.549428, loss_seg_dice : 2.130381, consistency_loss : 0.000008, cons_dist: 0.012278, loss_weight: 0.000674
+[11:44:19.270] iteration 48 : loss : 1.112303, loss_seg : 0.350867, loss_seg_dice : 1.873720, consistency_loss : 0.000009, cons_dist: 0.013372, loss_weight: 0.000674
+[11:44:21.890] iteration 49 : loss : 1.688615, loss_seg : 1.064718, loss_seg_dice : 2.312416, consistency_loss : 0.000048, cons_dist: 0.071632, loss_weight: 0.000674
+[11:44:24.510] iteration 50 : loss : 1.251468, loss_seg : 0.361806, loss_seg_dice : 2.141102, consistency_loss : 0.000013, cons_dist: 0.019927, loss_weight: 0.000674
+[11:44:27.526] iteration 51 : loss : 1.568054, loss_seg : 0.941071, loss_seg_dice : 2.195003, consistency_loss : 0.000017, cons_dist: 0.024868, loss_weight: 0.000674
+[11:44:30.146] iteration 52 : loss : 1.094033, loss_seg : 0.120850, loss_seg_dice : 2.067159, consistency_loss : 0.000028, cons_dist: 0.042295, loss_weight: 0.000674
+[11:44:32.767] iteration 53 : loss : 1.397806, loss_seg : 0.506296, loss_seg_dice : 2.289293, consistency_loss : 0.000012, cons_dist: 0.017686, loss_weight: 0.000674
+[11:44:35.389] iteration 54 : loss : 1.243960, loss_seg : 0.484067, loss_seg_dice : 2.003820, consistency_loss : 0.000017, cons_dist: 0.024756, loss_weight: 0.000674
+[11:44:38.012] iteration 55 : loss : 1.333363, loss_seg : 0.230001, loss_seg_dice : 2.436660, consistency_loss : 0.000033, cons_dist: 0.048567, loss_weight: 0.000674
+[11:44:40.631] iteration 56 : loss : 1.386194, loss_seg : 0.863023, loss_seg_dice : 1.909326, consistency_loss : 0.000019, cons_dist: 0.028545, loss_weight: 0.000674
+[11:44:43.253] iteration 57 : loss : 1.665711, loss_seg : 1.133478, loss_seg_dice : 2.197912, consistency_loss : 0.000016, cons_dist: 0.023202, loss_weight: 0.000674
+[11:44:45.871] iteration 58 : loss : 1.105968, loss_seg : 0.358954, loss_seg_dice : 1.852950, consistency_loss : 0.000016, cons_dist: 0.024292, loss_weight: 0.000674
+[11:44:48.490] iteration 59 : loss : 1.297561, loss_seg : 0.390501, loss_seg_dice : 2.204558, consistency_loss : 0.000031, cons_dist: 0.045881, loss_weight: 0.000674
+[11:44:51.113] iteration 60 : loss : 1.287136, loss_seg : 0.610274, loss_seg_dice : 1.963944, consistency_loss : 0.000027, cons_dist: 0.039395, loss_weight: 0.000674
+[11:44:53.731] iteration 61 : loss : 1.166335, loss_seg : 0.425584, loss_seg_dice : 1.907060, consistency_loss : 0.000013, cons_dist: 0.019020, loss_weight: 0.000674
+[11:44:56.350] iteration 62 : loss : 1.405753, loss_seg : 0.930966, loss_seg_dice : 1.880509, consistency_loss : 0.000016, cons_dist: 0.023418, loss_weight: 0.000674
+[11:44:58.970] iteration 63 : loss : 1.318166, loss_seg : 0.357412, loss_seg_dice : 2.278902, consistency_loss : 0.000009, cons_dist: 0.013418, loss_weight: 0.000674
+[11:45:01.590] iteration 64 : loss : 1.194351, loss_seg : 0.391227, loss_seg_dice : 1.997414, consistency_loss : 0.000031, cons_dist: 0.046102, loss_weight: 0.000674
+[11:45:09.396] iteration 65 : loss : 1.235025, loss_seg : 0.542826, loss_seg_dice : 1.927180, consistency_loss : 0.000022, cons_dist: 0.033094, loss_weight: 0.000674
+[11:45:12.015] iteration 66 : loss : 1.290930, loss_seg : 0.616765, loss_seg_dice : 1.964995, consistency_loss : 0.000050, cons_dist: 0.074562, loss_weight: 0.000674
+[11:45:14.632] iteration 67 : loss : 1.253425, loss_seg : 0.386971, loss_seg_dice : 2.119830, consistency_loss : 0.000025, cons_dist: 0.036930, loss_weight: 0.000674
+[11:45:17.252] iteration 68 : loss : 1.297468, loss_seg : 0.647147, loss_seg_dice : 1.947768, consistency_loss : 0.000011, cons_dist: 0.015850, loss_weight: 0.000674
+[11:45:19.869] iteration 69 : loss : 1.242324, loss_seg : 0.349091, loss_seg_dice : 2.135509, consistency_loss : 0.000024, cons_dist: 0.035654, loss_weight: 0.000674
+[11:45:22.490] iteration 70 : loss : 1.138899, loss_seg : 0.638117, loss_seg_dice : 1.639668, consistency_loss : 0.000007, cons_dist: 0.009674, loss_weight: 0.000674
+[11:45:25.108] iteration 71 : loss : 1.226925, loss_seg : 0.438397, loss_seg_dice : 2.015418, consistency_loss : 0.000017, cons_dist: 0.025779, loss_weight: 0.000674
+[11:45:27.727] iteration 72 : loss : 1.454184, loss_seg : 0.977219, loss_seg_dice : 1.931127, consistency_loss : 0.000011, cons_dist: 0.016119, loss_weight: 0.000674
+[11:45:30.347] iteration 73 : loss : 1.233614, loss_seg : 0.614923, loss_seg_dice : 1.852290, consistency_loss : 0.000008, cons_dist: 0.011338, loss_weight: 0.000674
+[11:45:32.965] iteration 74 : loss : 1.116692, loss_seg : 0.435539, loss_seg_dice : 1.797833, consistency_loss : 0.000006, cons_dist: 0.008719, loss_weight: 0.000674
+[11:45:35.585] iteration 75 : loss : 1.688091, loss_seg : 0.509789, loss_seg_dice : 2.866364, consistency_loss : 0.000015, cons_dist: 0.021544, loss_weight: 0.000674
+[11:45:38.206] iteration 76 : loss : 1.399217, loss_seg : 0.827265, loss_seg_dice : 1.971122, consistency_loss : 0.000023, cons_dist: 0.034674, loss_weight: 0.000674
+[11:45:40.827] iteration 77 : loss : 1.275867, loss_seg : 0.388528, loss_seg_dice : 2.163123, consistency_loss : 0.000042, cons_dist: 0.062236, loss_weight: 0.000674
+[11:45:43.447] iteration 78 : loss : 1.166457, loss_seg : 0.489952, loss_seg_dice : 1.842952, consistency_loss : 0.000005, cons_dist: 0.006826, loss_weight: 0.000674
+[11:45:46.068] iteration 79 : loss : 1.300800, loss_seg : 0.517987, loss_seg_dice : 2.083592, consistency_loss : 0.000010, cons_dist: 0.015517, loss_weight: 0.000674
+[11:45:48.688] iteration 80 : loss : 1.143292, loss_seg : 0.433002, loss_seg_dice : 1.853545, consistency_loss : 0.000018, cons_dist: 0.027019, loss_weight: 0.000674
+[11:45:51.308] iteration 81 : loss : 1.137693, loss_seg : 0.420602, loss_seg_dice : 1.854758, consistency_loss : 0.000013, cons_dist: 0.019913, loss_weight: 0.000674
+[11:45:53.927] iteration 82 : loss : 1.215706, loss_seg : 0.660529, loss_seg_dice : 1.770862, consistency_loss : 0.000011, cons_dist: 0.016114, loss_weight: 0.000674
+[11:45:56.545] iteration 83 : loss : 1.169053, loss_seg : 0.383760, loss_seg_dice : 1.954333, consistency_loss : 0.000006, cons_dist: 0.009276, loss_weight: 0.000674
+[11:45:59.168] iteration 84 : loss : 1.319230, loss_seg : 0.507413, loss_seg_dice : 2.131024, consistency_loss : 0.000011, cons_dist: 0.016551, loss_weight: 0.000674
+[11:46:01.789] iteration 85 : loss : 1.179086, loss_seg : 0.593537, loss_seg_dice : 1.764614, consistency_loss : 0.000010, cons_dist: 0.015230, loss_weight: 0.000674
+[11:46:04.411] iteration 86 : loss : 1.078696, loss_seg : 0.361203, loss_seg_dice : 1.796170, consistency_loss : 0.000010, cons_dist: 0.014660, loss_weight: 0.000674
+[11:46:07.029] iteration 87 : loss : 1.153274, loss_seg : 0.534747, loss_seg_dice : 1.771792, consistency_loss : 0.000005, cons_dist: 0.007337, loss_weight: 0.000674
+[11:46:09.649] iteration 88 : loss : 1.076778, loss_seg : 0.448077, loss_seg_dice : 1.705403, consistency_loss : 0.000039, cons_dist: 0.057293, loss_weight: 0.000674
+[11:46:12.268] iteration 89 : loss : 1.480533, loss_seg : 0.678491, loss_seg_dice : 2.282547, consistency_loss : 0.000013, cons_dist: 0.019751, loss_weight: 0.000674
+[11:46:14.887] iteration 90 : loss : 1.386196, loss_seg : 0.362038, loss_seg_dice : 2.410320, consistency_loss : 0.000017, cons_dist: 0.025880, loss_weight: 0.000674
+[11:46:17.508] iteration 91 : loss : 1.302248, loss_seg : 0.628904, loss_seg_dice : 1.975542, consistency_loss : 0.000025, cons_dist: 0.037290, loss_weight: 0.000674
+[11:46:20.127] iteration 92 : loss : 1.122836, loss_seg : 0.442635, loss_seg_dice : 1.803010, consistency_loss : 0.000014, cons_dist: 0.020298, loss_weight: 0.000674
+[11:46:22.750] iteration 93 : loss : 1.113418, loss_seg : 0.372888, loss_seg_dice : 1.853935, consistency_loss : 0.000006, cons_dist: 0.009339, loss_weight: 0.000674
+[11:46:25.372] iteration 94 : loss : 1.324675, loss_seg : 0.803881, loss_seg_dice : 1.845447, consistency_loss : 0.000011, cons_dist: 0.016263, loss_weight: 0.000674
+[11:46:27.992] iteration 95 : loss : 1.037938, loss_seg : 0.442078, loss_seg_dice : 1.633762, consistency_loss : 0.000018, cons_dist: 0.026325, loss_weight: 0.000674
+[11:46:30.613] iteration 96 : loss : 1.482609, loss_seg : 0.787028, loss_seg_dice : 2.178161, consistency_loss : 0.000015, cons_dist: 0.021589, loss_weight: 0.000674
+[11:46:35.783] iteration 97 : loss : 1.228521, loss_seg : 0.722902, loss_seg_dice : 1.734128, consistency_loss : 0.000007, cons_dist: 0.010042, loss_weight: 0.000674
+[11:46:38.404] iteration 98 : loss : 1.358650, loss_seg : 0.805262, loss_seg_dice : 1.912021, consistency_loss : 0.000008, cons_dist: 0.011877, loss_weight: 0.000674
+[11:46:41.021] iteration 99 : loss : 1.270654, loss_seg : 0.406827, loss_seg_dice : 2.134464, consistency_loss : 0.000008, cons_dist: 0.012096, loss_weight: 0.000674
+[11:46:43.643] iteration 100 : loss : 1.078885, loss_seg : 0.518235, loss_seg_dice : 1.639521, consistency_loss : 0.000007, cons_dist: 0.010991, loss_weight: 0.000674
+[11:46:46.603] iteration 101 : loss : 1.455835, loss_seg : 0.933958, loss_seg_dice : 1.977680, consistency_loss : 0.000016, cons_dist: 0.024270, loss_weight: 0.000674
+[11:46:49.224] iteration 102 : loss : 1.341007, loss_seg : 0.613916, loss_seg_dice : 2.068081, consistency_loss : 0.000009, cons_dist: 0.013087, loss_weight: 0.000674
+[11:48:24.281] Namespace(base_lr=0.01, batch_size=4, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=2, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[11:48:27.256] 21 itertations per epoch
+[11:48:36.158] iteration 1 : loss : 2.204197, loss_seg : 1.410044, loss_seg_dice : 2.998127, consistency_loss : 0.000111, cons_dist: 0.165281, loss_weight: 0.000674
+[11:48:40.102] iteration 2 : loss : 2.148988, loss_seg : 1.336918, loss_seg_dice : 2.960974, consistency_loss : 0.000042, cons_dist: 0.062557, loss_weight: 0.000674
+[11:48:44.041] iteration 3 : loss : 2.236017, loss_seg : 1.384177, loss_seg_dice : 3.087782, consistency_loss : 0.000038, cons_dist: 0.055746, loss_weight: 0.000674
+[11:48:47.980] iteration 4 : loss : 2.115412, loss_seg : 1.255122, loss_seg_dice : 2.975563, consistency_loss : 0.000069, cons_dist: 0.102268, loss_weight: 0.000674
+[11:48:51.919] iteration 5 : loss : 2.208246, loss_seg : 1.355574, loss_seg_dice : 3.060838, consistency_loss : 0.000039, cons_dist: 0.058556, loss_weight: 0.000674
+[11:48:55.862] iteration 6 : loss : 1.980750, loss_seg : 1.097771, loss_seg_dice : 2.863694, consistency_loss : 0.000018, cons_dist: 0.026198, loss_weight: 0.000674
+[11:48:59.799] iteration 7 : loss : 1.914963, loss_seg : 1.065519, loss_seg_dice : 2.764330, consistency_loss : 0.000039, cons_dist: 0.057584, loss_weight: 0.000674
+[11:49:03.740] iteration 8 : loss : 2.003581, loss_seg : 1.160344, loss_seg_dice : 2.846713, consistency_loss : 0.000053, cons_dist: 0.078340, loss_weight: 0.000674
+[11:49:07.679] iteration 9 : loss : 1.874160, loss_seg : 1.045504, loss_seg_dice : 2.702762, consistency_loss : 0.000026, cons_dist: 0.039109, loss_weight: 0.000674
+[11:49:11.619] iteration 10 : loss : 1.936526, loss_seg : 1.224717, loss_seg_dice : 2.648222, consistency_loss : 0.000056, cons_dist: 0.083657, loss_weight: 0.000674
+[11:49:15.557] iteration 11 : loss : 1.917771, loss_seg : 1.021382, loss_seg_dice : 2.814106, consistency_loss : 0.000027, cons_dist: 0.040759, loss_weight: 0.000674
+[11:49:19.496] iteration 12 : loss : 1.844910, loss_seg : 0.968729, loss_seg_dice : 2.721053, consistency_loss : 0.000019, cons_dist: 0.028570, loss_weight: 0.000674
+[11:49:23.432] iteration 13 : loss : 1.726853, loss_seg : 0.939619, loss_seg_dice : 2.513960, consistency_loss : 0.000064, cons_dist: 0.094536, loss_weight: 0.000674
+[11:49:27.372] iteration 14 : loss : 1.971780, loss_seg : 1.213793, loss_seg_dice : 2.729718, consistency_loss : 0.000024, cons_dist: 0.035843, loss_weight: 0.000674
+[11:49:31.309] iteration 15 : loss : 1.514008, loss_seg : 0.794855, loss_seg_dice : 2.233095, consistency_loss : 0.000033, cons_dist: 0.048896, loss_weight: 0.000674
+[11:49:35.249] iteration 16 : loss : 1.708838, loss_seg : 0.849499, loss_seg_dice : 2.568085, consistency_loss : 0.000046, cons_dist: 0.068911, loss_weight: 0.000674
+[11:49:46.656] iteration 17 : loss : 1.657274, loss_seg : 1.070172, loss_seg_dice : 2.244341, consistency_loss : 0.000018, cons_dist: 0.026310, loss_weight: 0.000674
+[11:49:50.603] iteration 18 : loss : 1.606858, loss_seg : 0.693417, loss_seg_dice : 2.520255, consistency_loss : 0.000023, cons_dist: 0.033756, loss_weight: 0.000674
+[11:49:54.545] iteration 19 : loss : 1.631386, loss_seg : 0.839951, loss_seg_dice : 2.422738, consistency_loss : 0.000042, cons_dist: 0.061875, loss_weight: 0.000674
+[11:49:58.481] iteration 20 : loss : 1.622422, loss_seg : 0.904632, loss_seg_dice : 2.340171, consistency_loss : 0.000021, cons_dist: 0.030836, loss_weight: 0.000674
+[11:50:02.422] iteration 21 : loss : 1.509091, loss_seg : 0.721386, loss_seg_dice : 2.296720, consistency_loss : 0.000039, cons_dist: 0.057221, loss_weight: 0.000674
+[11:50:06.363] iteration 22 : loss : 1.700556, loss_seg : 1.004795, loss_seg_dice : 2.396265, consistency_loss : 0.000026, cons_dist: 0.038553, loss_weight: 0.000674
+[11:50:10.303] iteration 23 : loss : 1.457070, loss_seg : 0.534296, loss_seg_dice : 2.379799, consistency_loss : 0.000023, cons_dist: 0.033677, loss_weight: 0.000674
+[11:50:14.248] iteration 24 : loss : 1.666530, loss_seg : 0.955282, loss_seg_dice : 2.377679, consistency_loss : 0.000049, cons_dist: 0.073411, loss_weight: 0.000674
+[11:50:18.194] iteration 25 : loss : 1.650523, loss_seg : 0.923419, loss_seg_dice : 2.377505, consistency_loss : 0.000062, cons_dist: 0.091648, loss_weight: 0.000674
+[11:50:22.141] iteration 26 : loss : 1.596394, loss_seg : 0.801330, loss_seg_dice : 2.391396, consistency_loss : 0.000031, cons_dist: 0.045781, loss_weight: 0.000674
+[11:50:26.087] iteration 27 : loss : 1.558654, loss_seg : 0.858392, loss_seg_dice : 2.258844, consistency_loss : 0.000036, cons_dist: 0.053002, loss_weight: 0.000674
+[11:50:30.030] iteration 28 : loss : 1.354425, loss_seg : 0.763708, loss_seg_dice : 1.945086, consistency_loss : 0.000028, cons_dist: 0.041372, loss_weight: 0.000674
+[11:50:33.970] iteration 29 : loss : 1.724919, loss_seg : 1.104673, loss_seg_dice : 2.345092, consistency_loss : 0.000036, cons_dist: 0.054103, loss_weight: 0.000674
+[11:50:37.907] iteration 30 : loss : 1.418869, loss_seg : 0.588904, loss_seg_dice : 2.248791, consistency_loss : 0.000021, cons_dist: 0.031891, loss_weight: 0.000674
+[11:50:41.846] iteration 31 : loss : 1.521850, loss_seg : 0.897292, loss_seg_dice : 2.146356, consistency_loss : 0.000026, cons_dist: 0.038926, loss_weight: 0.000674
+[11:50:45.786] iteration 32 : loss : 1.466776, loss_seg : 0.687594, loss_seg_dice : 2.245845, consistency_loss : 0.000057, cons_dist: 0.084023, loss_weight: 0.000674
+[11:50:55.367] iteration 33 : loss : 1.487239, loss_seg : 0.818113, loss_seg_dice : 2.156295, consistency_loss : 0.000035, cons_dist: 0.051651, loss_weight: 0.000674
+[11:50:59.310] iteration 34 : loss : 1.246532, loss_seg : 0.385534, loss_seg_dice : 2.107467, consistency_loss : 0.000032, cons_dist: 0.046897, loss_weight: 0.000674
+[11:51:03.253] iteration 35 : loss : 1.234251, loss_seg : 0.379346, loss_seg_dice : 2.089072, consistency_loss : 0.000042, cons_dist: 0.061843, loss_weight: 0.000674
+[11:51:07.192] iteration 36 : loss : 1.492498, loss_seg : 0.938781, loss_seg_dice : 2.046181, consistency_loss : 0.000016, cons_dist: 0.024334, loss_weight: 0.000674
+[11:51:11.135] iteration 37 : loss : 1.302034, loss_seg : 0.574547, loss_seg_dice : 2.029459, consistency_loss : 0.000031, cons_dist: 0.045787, loss_weight: 0.000674
+[11:51:15.074] iteration 38 : loss : 1.494716, loss_seg : 0.748591, loss_seg_dice : 2.240774, consistency_loss : 0.000033, cons_dist: 0.049465, loss_weight: 0.000674
+[11:51:19.016] iteration 39 : loss : 1.567028, loss_seg : 0.939899, loss_seg_dice : 2.194081, consistency_loss : 0.000038, cons_dist: 0.056082, loss_weight: 0.000674
+[11:51:22.954] iteration 40 : loss : 1.379976, loss_seg : 0.665309, loss_seg_dice : 2.094572, consistency_loss : 0.000035, cons_dist: 0.052243, loss_weight: 0.000674
+[11:51:26.899] iteration 41 : loss : 1.332964, loss_seg : 0.596453, loss_seg_dice : 2.069407, consistency_loss : 0.000035, cons_dist: 0.051466, loss_weight: 0.000674
+[11:51:30.838] iteration 42 : loss : 1.526399, loss_seg : 0.879882, loss_seg_dice : 2.172856, consistency_loss : 0.000030, cons_dist: 0.044419, loss_weight: 0.000674
+[11:51:34.780] iteration 43 : loss : 1.404221, loss_seg : 0.711731, loss_seg_dice : 2.096665, consistency_loss : 0.000024, cons_dist: 0.035021, loss_weight: 0.000674
+[11:51:38.721] iteration 44 : loss : 1.287852, loss_seg : 0.657554, loss_seg_dice : 1.918138, consistency_loss : 0.000006, cons_dist: 0.009016, loss_weight: 0.000674
+[11:51:42.664] iteration 45 : loss : 1.292325, loss_seg : 0.629666, loss_seg_dice : 1.954948, consistency_loss : 0.000018, cons_dist: 0.027367, loss_weight: 0.000674
+[11:51:46.604] iteration 46 : loss : 1.276460, loss_seg : 0.428562, loss_seg_dice : 2.124290, consistency_loss : 0.000034, cons_dist: 0.050952, loss_weight: 0.000674
+[11:51:50.548] iteration 47 : loss : 1.327615, loss_seg : 0.662691, loss_seg_dice : 1.992469, consistency_loss : 0.000035, cons_dist: 0.052434, loss_weight: 0.000674
+[11:51:54.487] iteration 48 : loss : 1.381999, loss_seg : 0.731442, loss_seg_dice : 2.032517, consistency_loss : 0.000019, cons_dist: 0.028154, loss_weight: 0.000674
+[11:52:02.413] iteration 49 : loss : 1.325768, loss_seg : 0.773977, loss_seg_dice : 1.877525, consistency_loss : 0.000017, cons_dist: 0.025401, loss_weight: 0.000674
+[11:52:06.358] iteration 50 : loss : 1.325801, loss_seg : 0.708460, loss_seg_dice : 1.943107, consistency_loss : 0.000018, cons_dist: 0.026963, loss_weight: 0.000674
+[11:52:10.779] iteration 51 : loss : 1.207415, loss_seg : 0.555975, loss_seg_dice : 1.858841, consistency_loss : 0.000007, cons_dist: 0.010592, loss_weight: 0.000674
+[11:52:14.716] iteration 52 : loss : 1.813465, loss_seg : 1.264372, loss_seg_dice : 2.362521, consistency_loss : 0.000019, cons_dist: 0.027469, loss_weight: 0.000674
+[11:52:18.657] iteration 53 : loss : 1.696052, loss_seg : 1.058678, loss_seg_dice : 2.333394, consistency_loss : 0.000016, cons_dist: 0.023502, loss_weight: 0.000674
+[11:52:22.597] iteration 54 : loss : 1.402296, loss_seg : 0.818028, loss_seg_dice : 1.986536, consistency_loss : 0.000014, cons_dist: 0.020326, loss_weight: 0.000674
+[11:52:26.540] iteration 55 : loss : 1.284034, loss_seg : 0.567469, loss_seg_dice : 2.000554, consistency_loss : 0.000022, cons_dist: 0.033039, loss_weight: 0.000674
+[11:52:30.477] iteration 56 : loss : 1.389560, loss_seg : 0.636754, loss_seg_dice : 2.142318, consistency_loss : 0.000024, cons_dist: 0.035246, loss_weight: 0.000674
+[11:52:34.417] iteration 57 : loss : 1.331349, loss_seg : 0.702737, loss_seg_dice : 1.959923, consistency_loss : 0.000020, cons_dist: 0.029126, loss_weight: 0.000674
+[11:52:38.356] iteration 58 : loss : 1.322826, loss_seg : 0.528907, loss_seg_dice : 2.116726, consistency_loss : 0.000010, cons_dist: 0.015177, loss_weight: 0.000674
+[11:52:42.299] iteration 59 : loss : 1.266378, loss_seg : 0.466131, loss_seg_dice : 2.066595, consistency_loss : 0.000015, cons_dist: 0.022086, loss_weight: 0.000674
+[11:52:46.241] iteration 60 : loss : 1.191662, loss_seg : 0.651549, loss_seg_dice : 1.731757, consistency_loss : 0.000009, cons_dist: 0.013007, loss_weight: 0.000674
+[11:52:50.183] iteration 61 : loss : 1.336051, loss_seg : 0.672518, loss_seg_dice : 1.999544, consistency_loss : 0.000019, cons_dist: 0.028850, loss_weight: 0.000674
+[11:52:54.123] iteration 62 : loss : 1.335437, loss_seg : 0.544740, loss_seg_dice : 2.126107, consistency_loss : 0.000014, cons_dist: 0.020634, loss_weight: 0.000674
+[11:52:58.064] iteration 63 : loss : 1.474738, loss_seg : 0.596084, loss_seg_dice : 2.353362, consistency_loss : 0.000015, cons_dist: 0.021660, loss_weight: 0.000674
+[11:53:02.005] iteration 64 : loss : 1.351638, loss_seg : 0.583742, loss_seg_dice : 2.119507, consistency_loss : 0.000013, cons_dist: 0.019889, loss_weight: 0.000674
+[11:53:10.135] iteration 65 : loss : 1.308548, loss_seg : 0.672750, loss_seg_dice : 1.944334, consistency_loss : 0.000007, cons_dist: 0.010172, loss_weight: 0.000674
+[11:53:14.080] iteration 66 : loss : 1.423657, loss_seg : 0.856359, loss_seg_dice : 1.990924, consistency_loss : 0.000016, cons_dist: 0.023667, loss_weight: 0.000674
+[11:53:18.020] iteration 67 : loss : 1.552003, loss_seg : 0.829884, loss_seg_dice : 2.274066, consistency_loss : 0.000028, cons_dist: 0.041700, loss_weight: 0.000674
+[11:53:21.959] iteration 68 : loss : 1.245386, loss_seg : 0.618800, loss_seg_dice : 1.871953, consistency_loss : 0.000010, cons_dist: 0.014871, loss_weight: 0.000674
+[11:53:25.901] iteration 69 : loss : 1.182879, loss_seg : 0.498062, loss_seg_dice : 1.867669, consistency_loss : 0.000013, cons_dist: 0.019583, loss_weight: 0.000674
+[11:53:29.840] iteration 70 : loss : 1.299801, loss_seg : 0.497281, loss_seg_dice : 2.102302, consistency_loss : 0.000010, cons_dist: 0.014618, loss_weight: 0.000674
+[11:53:33.783] iteration 71 : loss : 1.556391, loss_seg : 0.850130, loss_seg_dice : 2.262613, consistency_loss : 0.000020, cons_dist: 0.029236, loss_weight: 0.000674
+[11:53:37.726] iteration 72 : loss : 1.190109, loss_seg : 0.455476, loss_seg_dice : 1.924723, consistency_loss : 0.000010, cons_dist: 0.015124, loss_weight: 0.000674
+[11:53:41.670] iteration 73 : loss : 1.400481, loss_seg : 0.717510, loss_seg_dice : 2.083431, consistency_loss : 0.000011, cons_dist: 0.016312, loss_weight: 0.000674
+[11:53:45.609] iteration 74 : loss : 1.224767, loss_seg : 0.388380, loss_seg_dice : 2.061134, consistency_loss : 0.000010, cons_dist: 0.014197, loss_weight: 0.000674
+[11:53:49.551] iteration 75 : loss : 1.108886, loss_seg : 0.277674, loss_seg_dice : 1.940056, consistency_loss : 0.000021, cons_dist: 0.031357, loss_weight: 0.000674
+[11:53:53.492] iteration 76 : loss : 1.359318, loss_seg : 0.766072, loss_seg_dice : 1.952525, consistency_loss : 0.000020, cons_dist: 0.029454, loss_weight: 0.000674
+[11:53:57.436] iteration 77 : loss : 1.381666, loss_seg : 0.673799, loss_seg_dice : 2.089513, consistency_loss : 0.000010, cons_dist: 0.014298, loss_weight: 0.000674
+[11:54:01.377] iteration 78 : loss : 1.339371, loss_seg : 0.466361, loss_seg_dice : 2.212361, consistency_loss : 0.000010, cons_dist: 0.015191, loss_weight: 0.000674
+[11:54:05.317] iteration 79 : loss : 1.283020, loss_seg : 0.609999, loss_seg_dice : 1.956023, consistency_loss : 0.000009, cons_dist: 0.013346, loss_weight: 0.000674
+[11:54:09.257] iteration 80 : loss : 1.385240, loss_seg : 0.666588, loss_seg_dice : 2.103844, consistency_loss : 0.000024, cons_dist: 0.035787, loss_weight: 0.000674
+[11:54:18.949] iteration 81 : loss : 1.322097, loss_seg : 0.639466, loss_seg_dice : 2.004699, consistency_loss : 0.000015, cons_dist: 0.021577, loss_weight: 0.000674
+[11:54:22.893] iteration 82 : loss : 1.024200, loss_seg : 0.397749, loss_seg_dice : 1.650625, consistency_loss : 0.000013, cons_dist: 0.019267, loss_weight: 0.000674
+[11:54:26.832] iteration 83 : loss : 1.499612, loss_seg : 0.890104, loss_seg_dice : 2.109092, consistency_loss : 0.000014, cons_dist: 0.021507, loss_weight: 0.000674
+[11:54:30.771] iteration 84 : loss : 1.228910, loss_seg : 0.689219, loss_seg_dice : 1.768564, consistency_loss : 0.000019, cons_dist: 0.028412, loss_weight: 0.000674
+[11:54:34.716] iteration 85 : loss : 1.141192, loss_seg : 0.310187, loss_seg_dice : 1.972179, consistency_loss : 0.000009, cons_dist: 0.013252, loss_weight: 0.000674
+[11:55:41.046] Namespace(base_lr=0.01, batch_size=4, consistency=0.1, consistency_rampup=40.0, consistency_type='mse', deterministic=1, ema_decay=0.99, exp='UAMT_unlabel', gpu='0', labeled_bs=2, max_iterations=6000, root_path_labeled='../../data/gz_dataset/segmented', root_path_unlabeled='../../data/gz_dataset/unsegmented/success', seed=1337)
+[11:55:44.097] 21 itertations per epoch
+[11:55:53.479] iteration 1 : loss : 2.204197, loss_seg : 1.410044, loss_seg_dice : 2.998127, consistency_loss : 0.000111, cons_dist: 0.165281, loss_weight: 0.000674
+[11:55:57.430] iteration 2 : loss : 2.148988, loss_seg : 1.336917, loss_seg_dice : 2.960974, consistency_loss : 0.000042, cons_dist: 0.062557, loss_weight: 0.000674
+[11:56:01.369] iteration 3 : loss : 2.342353, loss_seg : 1.377737, loss_seg_dice : 3.306852, consistency_loss : 0.000058, cons_dist: 0.086155, loss_weight: 0.000674
+[11:56:05.311] iteration 4 : loss : 2.081464, loss_seg : 1.249177, loss_seg_dice : 2.913618, consistency_loss : 0.000067, cons_dist: 0.099580, loss_weight: 0.000674
+[11:56:09.253] iteration 5 : loss : 2.093072, loss_seg : 1.324432, loss_seg_dice : 2.861637, consistency_loss : 0.000038, cons_dist: 0.056699, loss_weight: 0.000674
+[11:56:13.197] iteration 6 : loss : 1.936480, loss_seg : 1.082831, loss_seg_dice : 2.790092, consistency_loss : 0.000019, cons_dist: 0.027615, loss_weight: 0.000674
+[11:56:17.135] iteration 7 : loss : 1.913128, loss_seg : 1.057260, loss_seg_dice : 2.768898, consistency_loss : 0.000049, cons_dist: 0.072836, loss_weight: 0.000674
+[11:56:21.077] iteration 8 : loss : 2.034842, loss_seg : 1.260602, loss_seg_dice : 2.808988, consistency_loss : 0.000046, cons_dist: 0.068686, loss_weight: 0.000674
+[11:56:25.016] iteration 9 : loss : 1.964561, loss_seg : 1.046716, loss_seg_dice : 2.882354, consistency_loss : 0.000026, cons_dist: 0.038667, loss_weight: 0.000674
+[11:56:28.958] iteration 10 : loss : 1.853935, loss_seg : 1.048193, loss_seg_dice : 2.659597, consistency_loss : 0.000041, cons_dist: 0.060436, loss_weight: 0.000674
+[11:56:32.902] iteration 11 : loss : 1.928408, loss_seg : 1.081112, loss_seg_dice : 2.775649, consistency_loss : 0.000028, cons_dist: 0.040936, loss_weight: 0.000674
+[11:56:36.847] iteration 12 : loss : 1.786457, loss_seg : 0.937522, loss_seg_dice : 2.635356, consistency_loss : 0.000018, cons_dist: 0.026961, loss_weight: 0.000674
+[11:56:40.787] iteration 13 : loss : 1.852190, loss_seg : 1.013184, loss_seg_dice : 2.691076, consistency_loss : 0.000060, cons_dist: 0.089097, loss_weight: 0.000674
+[11:56:44.734] iteration 14 : loss : 1.964482, loss_seg : 1.190335, loss_seg_dice : 2.738571, consistency_loss : 0.000029, cons_dist: 0.042490, loss_weight: 0.000674
+[11:56:48.671] iteration 15 : loss : 1.525935, loss_seg : 0.782688, loss_seg_dice : 2.269108, consistency_loss : 0.000037, cons_dist: 0.054181, loss_weight: 0.000674
+[11:56:52.614] iteration 16 : loss : 1.700463, loss_seg : 0.908025, loss_seg_dice : 2.492812, consistency_loss : 0.000044, cons_dist: 0.065117, loss_weight: 0.000674
+[11:57:05.304] iteration 17 : loss : 1.663672, loss_seg : 1.077228, loss_seg_dice : 2.250080, consistency_loss : 0.000018, cons_dist: 0.026572, loss_weight: 0.000674
+[11:57:09.251] iteration 18 : loss : 1.584368, loss_seg : 0.675163, loss_seg_dice : 2.493521, consistency_loss : 0.000026, cons_dist: 0.038153, loss_weight: 0.000674
+[11:57:15.009] iteration 19 : loss : 1.646052, loss_seg : 0.889790, loss_seg_dice : 2.402240, consistency_loss : 0.000037, cons_dist: 0.055449, loss_weight: 0.000674
+[11:57:18.955] iteration 20 : loss : 1.605135, loss_seg : 0.725495, loss_seg_dice : 2.484741, consistency_loss : 0.000017, cons_dist: 0.025053, loss_weight: 0.000674

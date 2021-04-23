@@ -1,0 +1,18 @@
+[01:22:01.973] Namespace(base_lr=0.01, batch_size=2, deterministic=1, exp='vnet_supervisedonly_dp', gpu='0', max_iterations=6000, root_path='../../data/gz_dataset/segmented', seed=1337)
+[01:22:04.835] 16 itertations per epoch
+[13:31:18.085] Namespace(base_lr=0.01, batch_size=2, deterministic=1, exp='vnet_supervisedonly_dp', gpu='0', max_iterations=6000, root_path='../../data/gz_dataset/segmented', seed=1337)
+[13:31:18.218] 16 itertations per epoch
+[13:42:18.325] Namespace(base_lr=0.01, batch_size=2, deterministic=1, exp='vnet_supervisedonly_dp', gpu='0', max_iterations=6000, root_path='../../data/gz_dataset/segmented', seed=1337)
+[13:42:21.192] 16 itertations per epoch
+[13:50:42.447] Namespace(base_lr=0.01, batch_size=2, deterministic=1, exp='vnet_supervisedonly_dp', gpu='0', max_iterations=6000, root_path='../../data/gz_dataset/segmented', seed=1337)
+[13:50:42.569] 16 itertations per epoch
+[14:12:09.851] Namespace(base_lr=0.01, batch_size=2, deterministic=1, exp='vnet_supervisedonly_dp', gpu='0', max_iterations=6000, root_path='../../data/gz_dataset/segmented', seed=1337)
+[14:12:09.976] 16 itertations per epoch
+[14:12:23.075] iteration 1 : loss : 2.280805, loss_seg : 1.156941, loss_seg_dice : 3.404669
+[14:12:31.852] iteration 2 : loss : 2.454720, loss_seg : 1.407261, loss_seg_dice : 3.502179
+[14:12:45.705] iteration 3 : loss : 2.233161, loss_seg : 1.086952, loss_seg_dice : 3.379369
+[14:12:54.525] iteration 4 : loss : 2.196228, loss_seg : 1.219909, loss_seg_dice : 3.172546
+[14:13:06.367] iteration 5 : loss : 2.186012, loss_seg : 1.019003, loss_seg_dice : 3.353020
+[14:13:15.448] iteration 6 : loss : 2.202075, loss_seg : 1.050521, loss_seg_dice : 3.353628
+[14:13:28.727] iteration 7 : loss : 2.351683, loss_seg : 1.249096, loss_seg_dice : 3.454271
+[14:13:39.351] iteration 8 : loss : 2.152978, loss_seg : 0.985309, loss_seg_dice : 3.320647
